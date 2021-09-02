@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+### Create and mint your own color nfts. This is set up to use the ganache localhost:7545 with the network id of 5557.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### To deploy the smart contract run `truffle migrate --reset`
+
+![plot](./photos/Unconnected from metamask account.png)
+![plot](./photos/No Minted Colors.png)
+![plot](./photos/Minted colors.png)
 
 ## Available Scripts
 
@@ -68,7 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-### Create and mint your own color nfts. This is set up to use the ganache localhost:7545 with the network id of 5557.
-
-### To deploy the smart contract run `truffle migrate --reset`
