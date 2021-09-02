@@ -14,7 +14,6 @@ export function App() {
 	const [account, setAccount] = useState("");
 	const [contract, setContract] = useState();
 	const [currentBalance, setCurrentBalance] = useState(0);
-	const [minting, setMinting] = useState(false);
 
 	useEffect(async () => {
 		if (account?.length > 0) {
@@ -102,7 +101,7 @@ export function App() {
 			/>
 			<div className='container'>
 				<div key={account} className='row justify-content-center'>
-					{account?.length === 0 && minting ? (
+					{account?.length === 0 ? (
 						<ConnectButton connectToWeb3={connectToWeb3} />
 					) : (
 						<Mint handleMinting={handleMinting} />
