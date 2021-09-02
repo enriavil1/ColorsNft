@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Create and mint your own color nfts. This is set up to use the ganache localhost:7545 with the network id of 5557.
 
-### To deploy the smart contract run truffle migrate --reset
+### To deploy the smart contract run `truffle migrate --reset`
