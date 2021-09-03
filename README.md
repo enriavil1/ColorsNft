@@ -2,9 +2,9 @@
 
 ### To deploy the smart contract run `truffle migrate --reset`
 
-![<Unconnected From Metamask>](./photos/<Unconnected from metamask account.jpeg>)
-![<No Minted Colors>](./photos/<No Minted Colors.jpeg>)
-![<Minted Colors>](<photos/<Minted colors.jpeg>>)
+![Unconnected-From-Metamask](<Unconnected from metamask account.jpeg>)
+![No-Minted-Colors](<No Minted Colors.jpeg>)
+![Minted-Colors](<Minted colors.jpeg>)
 
 ## Available Scripts
 
