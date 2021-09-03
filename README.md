@@ -2,9 +2,9 @@
 
 ### To deploy the smart contract run `truffle migrate --reset`
 
-![alt DAPP unconnected metamask](<Unconnected\ from\ metamask\ account.png>)
-![alt DAPP no minted nft](<No\ Minted\ Colors.png>)
-![alt DAPP with minted nfts](<Minted\ colors.png>)
+![screenshot](<Unconnected\ from\ metamask\ account.png>)
+![screenshot](<No\ Minted\ Colors.png>)
+![screenchot](<Minted\ colors.png>)
 
 ## Available Scripts
 
