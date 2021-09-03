@@ -4,7 +4,7 @@
 
 ![<Unconnected From Metamask>](./photos/<Unconnected from metamask account.jpeg>)
 ![<No Minted Colors>](./photos/<No Minted Colors.jpeg>)
-![<Minted Colors>](./photos/<Minted colors.jpeg>)
+![<Minted Colors>](</photos/<Minted colors.jpeg>>)
 
 ## Available Scripts
 
